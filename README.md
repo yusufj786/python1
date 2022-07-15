@@ -3,3 +3,8 @@
 - python
 - anaconda
 - git
+
+## Softwares installation
+- python
+- anaconda
+- git
