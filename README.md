@@ -8,8 +8,13 @@
 - python
 - anaconda
 - git
+
 ```sh
 cd dillinger
 npm i
 node app
 ```
+
+| Plugin | README |
+| ------ | ------ |
+| dillinger | [https://dillinger.io/][PlDb] |
