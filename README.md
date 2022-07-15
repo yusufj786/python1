@@ -8,3 +8,8 @@
 - python
 - anaconda
 - git
+```sh
+cd dillinger
+npm i
+node app
+```
