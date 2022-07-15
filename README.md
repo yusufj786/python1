@@ -17,4 +17,4 @@ node app
 
 | Plugin | README |
 | ------ | ------ |
-| dillinger | [https://dillinger.io/][PlDb] |
+| dillinger | [https://dillinger.io/] |
